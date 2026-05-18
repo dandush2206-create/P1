@@ -1,0 +1,1 @@
+print("Hello! Welcome to our simple Git project.")
